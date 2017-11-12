@@ -1,0 +1,1 @@
+On some files that are missing duration, parsing metadata is very slow.
